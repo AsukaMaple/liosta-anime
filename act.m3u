@@ -22,6 +22,40 @@ https://content-na.drive.amazonaws.com/cdproxy/templink/gBe5olQkCEehST89Yp3rAS3g
 #EXTINF:-1 tvg-logo="https://animeyt.moe/img/animes/portadas/640.jpg" group-title="One Piece", MOVIE 14: STAMPEDE| FLV
 https://s-delivery9.mxdcontent.net/v/ac94496afa99c738f694361707cc5d2d.mp4?s=T1Su2XuLLhjT7LIl7ZiFPA&e=1596315886
 
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/tate-no-yuusha-no-nariagari.jpg" group-title = "Tate no Yuusha no Nariagari", 1|
+https://storage.googleapis.com/markorosita.appspot.com/tate-no-yuusha-no-nariagari/01.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/vinland-saga.jpg" group-title = "Vinland Saga", 1|
+https://storage.googleapis.com/markorosita.appspot.com/vinland-saga/01.mp4
+
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/vinland-saga.jpg" group-title = "Vinland Saga", 2|
+https://storage.googleapis.com/markorosita.appspot.com/vinland-saga/02.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/vinland-saga.jpg" group-title = "Vinland Saga", 3|
+https://storage.googleapis.com/markorosita.appspot.com/vinland-saga/03.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/vinland-saga.jpg" group-title = "Vinland Saga", 4|
+https://storage.googleapis.com/markorosita.appspot.com/vinland-saga/04.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/vinland-saga.jpg" group-title = "Vinland Saga", 5|
+https://storage.googleapis.com/markorosita.appspot.com/vinland-saga/05.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/vinland-saga.jpg" group-title = "Vinland Saga", 6|
+https://storage.googleapis.com/markorosita.appspot.com/vinland-saga/06.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/shingeki-no-kyojin.jpg" group-title = "SHINGEKI NO KYOJIN", 1|
+https://storage.googleapis.com/markorosita.appspot.com/shinge/01.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/shingeki-no-kyojin.jpg" group-title = "SHINGEKI NO KYOJIN", 2| 
+https://storage.googleapis.com/markorosita.appspot.com/shinge/02.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/shingeki-no-kyojin.jpg" group-title = "SHINGEKI NO KYOJIN", 3|
+https://storage.googleapis.com/markorosita.appspot.com/shinge/03.mp4 
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/one-punch-man-2nd-season.jpg" group-title = "ONE PUNCH MAN 2ND SEASON", 1|
+https://storage.googleapis.com/markorosita.appspot.com/one-punch-man-2nd-season/01.mp4
+
 #EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 1|
 https://storage.googleapis.com/markorosita.appspot.com/guuds-01.mp4
 
@@ -31,6 +65,9 @@ https://storage.googleapis.com/markorosita.appspot.com/goodscol-02.mp4
 
 #EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 3|
 https://storage.googleapis.com/markorosita.appspot.com/good-03.mp4
+
+#EXTINF: -1 tvg-logo = "https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title = "El Dios de la escuela secundaria ", 4|
+https://storage.googleapis.com/markorosita.appspot.com/goscuela-04.mp4
 
 
 #EXTINF:-1 tvg-logo="" group-title="pedir mas", |
