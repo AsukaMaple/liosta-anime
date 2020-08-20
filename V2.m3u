@@ -1,0 +1,59 @@
+#RXTM3U
+
+#EXTINF:-1 
+
+
+
+#EXTINF: -1 tvg-logo = "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/08/one-piece-2016077.jpg?itok=AL6TzDFl" group-title = "One Piece", Episodio 936
+https://storage.googleapis.com/talriun.appspot.com/oniupsq-936.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/08/one-piece-2016077.jpg?itok=AL6TzDFl" group-title = "One Piece", Episodio 937
+https://storage.googleapis.com/talriun.appspot.com/onuitsq-937.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/akira.jpg" group-title = "AKIRA",  Movie|
+https://storage.googleapis.com/talriun.appspot.com/akirrrpel.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/berserk.jpg" group-title = "Berserk",  01|
+https://storage.googleapis.com/talriun.appspot.com/berserk/01.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/berserk.jpg" group-title = "Berserk",  02|
+https://storage.googleapis.com/talriun.appspot.com/berserk/02.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/berserk.jpg" group-title = "Berserk",  03|
+https://storage.googleapis.com/talriun.appspot.com/berserk/03.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/berserk.jpg" group-title = "Berserk",  04|
+https://storage.googleapis.com/talriun.appspot.com/berserk/04.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/berserk.jpg" group-title = "Berserk",  05|
+https://storage.googleapis.com/talriun.appspot.com/berserk/05.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/berserk.jpg" group-title = "Berserk",  06|
+https://storage.googleapis.com/talriun.appspot.com/berserk/06.mp4
+
+#EXTINF: -1 tvg-logo = "https://cdn.jkanime.net/assets/images/animes/image/berserk.jpg" group-title = "Berserk",  07|
+https://storage.googleapis.com/talriun.appspot.com/berserk/07.mp4
+
+#EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 1|
+https://storage.googleapis.com/talriun.appspot.com/guuds-01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 2|
+https://storage.googleapis.com/talriun.appspot.com/goodscol-02.mp4
+
+#EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 3|
+https://storage.googleapis.com/talriun.appspot.com/good-03.mp4
+
+#EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 4|
+https://storage.googleapis.com/talriun.appspot.com/goscuela-04.mp4
+
+#EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 5|
+https://storage.googleapis.com/talriun.appspot.com/goescuela-05.mp4
+
+#EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 6|
+https://storage.googleapis.com/talriun.appspot.com/gotito-06.mp4
+
+#EXTINF:-1 tvg-logo="https://www.animefenix.com/cdn/animes/cover/5efa0de2e0797/the-god-of-high-school.jpg" group-title="The God of High School", 7|
+https://storage.googleapis.com/talriun.appspot.com/godito-07v.mp4
+
+
+
